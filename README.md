@@ -1,25 +1,28 @@
-# t_store
+# BookAround
 
-A new Flutter project.
+Second-Hand Book-store application
 
 ┌──────────────────────────────────────────────────────────────────────────────────────────────────┐
 |                                                                                                  |
-|                                   WELCOME TO [T_Store]                                           |  
+|                                   WELCOME TO BookAround                                          |
 |                                                                                                  |
 |    Greetings,                                                                                    |
 |                                                                                                  |
-|    We extend our sincere appreciation for your interest in [T_Store]. This repository            |
-|    houses a robust e-commerce solution developed using the Flutter framework. Every line         |
-|    of code here reflects our commitment to quality, efficiency, and scalability.                 |
+|    At BookAround, our mission is to reduce the number of second-hand books just lying around.    |
+|    We strive to bring these books to those in need, ensuring they find new homes and continue    |
+|    to be of value.                                                                               |
 |                                                                                                  |
-|    We're dedicated to continuous improvement and we welcome feedback to make this                |
-|    solution even more industry-leading. Dive in, explore, and let's innovate together.           |
+|    This repository houses a robust e-commerce solution developed using the Flutter framework.    |
+|    Every line of code reflects our commitment to quality, efficiency, and scalability.           |
+|                                                                                                  |
+|    We are dedicated to continuous improvement and welcome feedback to further enhance this       |
+|    industry-leading solution. Dive in, explore, and let's innovate together.                     |
 |                                                                                                  |
 |    Regards,                                                                                      |
-|    Coding with T                                                                                 |
+|    Tanmay, Animesh, Vaibhav                                                                      |
 |                                                                                                  |
 └──────────────────────────────────────────────────────────────────────────────────────────────────┘
-
+```
 
 
 
