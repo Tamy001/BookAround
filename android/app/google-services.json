@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "316988508128",
+    "project_id": "bookaround-ac793",
+    "storage_bucket": "bookaround-ac793.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:316988508128:android:147a20621abb4d11af8d85",
+        "android_client_info": {
+          "package_name": "com.example.t_store"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "316988508128-c88apcadd8ct3mss24tg76sdjg3tpjhf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.t_store",
+            "certificate_hash": "704bafb341e8f4dc75d55a96bdc90a5a6e3c8d12"
+          }
+        },
+        {
+          "client_id": "316988508128-docnnvanika1rf2jhedlhnk2q456avct.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVNEqPFKolrN4LTdnmAmJfpPTYz8HabrY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "316988508128-docnnvanika1rf2jhedlhnk2q456avct.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "316988508128-jajfg2kn2l59q0dseue38sev3ekcs3f4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.bookaround.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
